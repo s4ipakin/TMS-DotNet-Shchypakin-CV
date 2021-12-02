@@ -1,0 +1,133 @@
+.shchypakin__cv{
+    position: relative;
+    width: 595px;
+    height: 842px;
+    background: #FFFFFF;
+
+}
+
+.title{
+    position: absolute;
+    height: 60px;
+    left: 8.07%;
+    right: 58.82%;
+    top: calc(50% - 60px/2 - 343px);
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #101214;
+}
+
+p#title__text {
+    font-size:24px;
+    font-weight: bold;
+    }
+p#title__text span {
+    font-size:18px;
+    font-weight: 400;
+    }
+
+.xp{
+    position: absolute;
+    height: 630px;
+    left: 8.07%;
+    right: 35.63%;
+    top: calc(50% - 630px/2 + 34px);
+
+    
+}
+
+p#xp__globalTitle{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 7px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #73808D;
+}
+
+p#xp__position{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+p#xp__enterprice{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+p#xp__timePlace{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7px;
+    line-height: 10px;
+}
+
+p#xp__tasks{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 10px;
+}
+
+.infos{
+    position: absolute;
+    height: 558px;
+    left: 68.4%;
+    right: 8.07%;
+    top: calc(50% - 558px/2 - 2px);
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 18px;
+    color: #73808D;
+}
+
+p#infos__contacts{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+}
+
+p#infos__title{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 18px;
+}
+
+p#infos__text{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 18px;
+}
+
+.avatar{
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 407px;
+    top: 36px;
+
+    background: url(1H_7AxP0.jpg);
+    filter: drop-shadow(0px 2px 4px rgba(16, 18, 20, 0.08));
+}
